@@ -1,0 +1,1 @@
+A newsletter website connected to Mailchimp to gather costumer's email address to send them advert/info emails.
